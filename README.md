@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>STM32 Project: Interfacing ADXL345 and MPU6050</title>
 </head>
 <body>
     <h1>STM32 Project: Interfacing ADXL345 using SPI and MPU6050 using I2C</h1>
